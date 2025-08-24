@@ -1,5 +1,5 @@
 ---
-# Draco-Dashboard
+# AG-Dashboard
 
 ## Overview
 
@@ -69,3 +69,9 @@ node .
   - **hopingboyz**
 
 This project is licensed under the terms of the repository's license. Check the `LICENSE` file for details.
+## Credits  
+- **Developed by**: Aru1234rgb
+- **made by**: hopingboyz   
+- **Powered by**:  Aru1234rgb
+- **Special Thanks**: hopingboyz
+
