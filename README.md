@@ -21,7 +21,7 @@ Follow the steps below to set up and run the dashboard:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dragonlabsdev/dashboard-v1.0.0
+   git clone https://github.com/Aru1234rgb/ag-dashboard-v1.0.0
    ```
 
 2. Navigate into the project directory:
